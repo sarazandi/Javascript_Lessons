@@ -24,8 +24,8 @@ Navigate into each *LEVEL* and complete the steps.
 	- Feel free to read [this article] (https://help.github.com/articles/fork-a-repo) for a review
 
 2. Choosing a *LEVEL* at a time, navigate into a subdirectory.
-	- Each subdirectory will have several HTML (and possibly CSS/JS) files, as well as a README
-	- The **README** file will explain the task for each exercise in the *LEVEL*
+	- Each subdirectory will have several HTML (and possibly CSS/JS) files, as well as an INSTRUCTIONS file
+	- The ** INSTRUCTIONS** file will explain the task for each exercise in the *LEVEL*
 	- Make the edits to the *existing files* as they are laid out (just for my ease of reviewing quickly)
 
 4. Commit and Push your code 
