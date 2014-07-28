@@ -2,6 +2,7 @@ Javascript Lessons
 ==================
 
 A series of forkable exercises for learning both JavaScript and Git.
+
 Navigate into each *LEVEL* and complete the steps. 
 
 *Note: Each task should take no longer than 1 hour at the most.*
@@ -12,7 +13,7 @@ Navigate into each *LEVEL* and complete the steps.
 
 - Please note that this will require some basic [JavaScript](http://www.w3schools.com/js/) and [Git] (https://help.github.com/) knowledge, but the exercises are designed to **grow** that knowledge, so don't feel dumb if you don't know how to do things immediately! Remember, Google is your friend!
 
-- You will need to have [Git](https://help.github.com/articles/set-up-git#platform-all) and the [GitHub App (OSX)](https://mac.github.com/) or [GitHub App (Win)](https://windows.github.com/) installed. If you are having problems, please message me directly (or open an issue!).
+- You will need to have [Git](https://help.github.com/articles/set-up-git#platform-all) and the GitHub App for [OSX](https://mac.github.com/) or [Win](https://windows.github.com/) installed. If you are having problems, please message me directly (or [open an issue] (https://github.com/JesseScott/Javascript_Lessons/issues) for bonus points!).
 
 
 
@@ -25,7 +26,7 @@ Navigate into each *LEVEL* and complete the steps.
 2. Choosing a *LEVEL* at a time, navigate into a subdirectory.
 	- Each subdirectory will have several HTML (and possibly CSS/JS) files, as well as a README
 	- The **README** file will explain the task for each exercise in the *LEVEL*
-	- Make the edits to the *existing files* as they already exist
+	- Make the edits to the *existing files* as they are laid out (just for my ease of reviewing quickly)
 
 4. Commit and Push your code 
 	- This will show up under your repository 
@@ -33,7 +34,7 @@ Navigate into each *LEVEL* and complete the steps.
 
 5. Send a Pull Request
 	- The Pull Request option should exist on the menu items in the right hand side of the page
-	- The help article is [here] (https://help.github.com/articles/using-pull-requests)
+	- Feel free to read [this article] (https://help.github.com/articles/using-pull-requests) for a review
 	- Once you have forked the code, I will create a *branch of my code* with *your name* on it 
 	- Create the Pull Request from *your master branch* of *your forked repository* to the *branch with your name on it* of *my repository* 
 
